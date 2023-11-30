@@ -1,9 +1,0 @@
-{
-  "workspace.library": [
-    "/home/robin/.local/share/nvim/site/pack/packer/start/neodev.nvim/types/nightly",
-    "/home/linuxbrew/.linuxbrew/Cellar/neovim/HEAD-366d0c7/share/nvim/runtime/lua",
-    "/home/robin/nvim_plugins/projector/lua",
-    "${3rd}/luv/library",
-    "./lua_modules/share/lua/5.1"
-  ]
-}
