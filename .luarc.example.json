@@ -1,0 +1,9 @@
+{
+  "workspace.library": [
+    "<<{{YOUR_PATH_TO_NEODEV}}>>/neodev.nvim/types/nightly",
+    "<<{{YOUR_PATH_TO_SHARE_NVIM}}>>/nvim/runtime/lua",
+    "<<{{YOUR_PATH_TO_PROJECT_DIR}}>>/projector/lua",
+    "${3rd}/luv/library",
+    "./lua_modules/share/lua/5.1"
+  ]
+}
