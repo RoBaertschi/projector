@@ -17,7 +17,7 @@ A simple Project manager for vim.
 
 DEPENDENCIES                                *projector-projector-dependencies*
 
-planery.nvim
+plenary.nvim
 
 
 SETUP                                              *projector-projector-setup*
