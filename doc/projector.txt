@@ -1,4 +1,4 @@
-*projector.txt*          For NVIM v0.8.0         Last change: 2023 November 30
+*projector.txt*          For NVIM v0.8.0         Last change: 2023 December 01
 
 ==============================================================================
 Table of Contents                                *projector-table-of-contents*
