@@ -29,7 +29,9 @@ local function open_projector_menu()
   end
 
   local cb = function(_, sel)
-    print(sel)
+    vim.fn.chdir(sel)
+    vim.fn.chdir(sel)
+    vim.fn.chdir(sel)
   end
 
   open_popup(menu_opts, cb)
@@ -37,7 +39,9 @@ end
 
 M.open_projector_menu = open_projector_menu
 
-open_projector_menu()
+vim.api.nvim_create_user_command("Projector", function()
+  open_projector_menu()
+end, {})
 
 ---setup projector with some options
 ---@param new_opts opts
