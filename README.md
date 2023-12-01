@@ -4,7 +4,7 @@ A simple Project manager for vim.
 
 ## Dependencies
 
-planery.nvim
+plenary.nvim
 
 ## Setup
 
