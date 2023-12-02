@@ -26,4 +26,4 @@ Run _:Projector_ and choose one of the project directories or press q to exit.
 - [ ] Pin projects
 - [ ] Hide projects
 - [ ] Cache?
-- [ ] Remove dependencie to planery?
+- [ ] Remove dependency to planery?
